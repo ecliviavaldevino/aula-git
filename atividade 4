@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <form>
+<label>Nome:</label>
+<input type="nome">
+<label>Email:</label>
+<input type="email">
+<label>idade:</label>
+<input type="idade">
+<label>data de nascimento:</label>
+<input type="data de nascimento">
+<label>Senha:</label>
+<input type="senha">
+<label>Hobbies:</label>
+<input type="checkbox"> Brincar com meu cachorro
+<input type="checkbox"> Assistit Doramas e Animes
+<input type="checkbox"> Ler livros de Romance e Fantasia
+<label>Turno:</label>
+<input type="radio" name="turno"> tarde
+<input type="submit" value="Enviar">
+<input type="submit" value="deletar">
+</form>
+</html>
