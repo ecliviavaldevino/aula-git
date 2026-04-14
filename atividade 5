@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Meu site</title>
+        <style>
+            h1{color:#363636;
+            text-align: center;}
+            p{COLOR:#000000;
+            text-align: center;
+            font-size:x-large;
+            }
+            body{
+            background-color:#4682B4;}
+             a{color:#363636;
+             font-size: larger;}
+            </style>
+    </head>
+    <body>
+        <header>
+            <h1><strong>Meu mini site</strong></h1>
+            <nav>
+                <a href="hobbies.html">hobbies</a>
+
+                <a href="cadastro.html">cadastro</a>
+            </nav>
+         </header>
+         <main>
+            <p>Este mini site foi criado para apresentar um pouco sobre mim, meus hobbies e um cadastro.</p>
+            
+        
+    </body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>hobbies</title>
+    </head>
+    <body>
+        <header>
+            <h1>Meus hobbies</h1>
+        </header>
+        <main>
+            <ul>
+                <li>Ler livros</li>
+                <li>Assistir Series,Filmes e Animes</li>
+                <li>Brincar com o meu cachorro</li>
+            </ul>
+            <a href="index.html">Voltar</a>
+             </main>
+        
+        <style>
+            h1{color:#363636;
+            text-align: center;}
+            li{COLOR:#000000;
+            font-size:larger}
+            body{
+            background-color:#4682B4;}
+             a{color:#363636;
+             font-size: larger;}
+             </style>
+             </html>
+             </body>             
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>cadastro</title>
+        </html>
+        <body>
+            <header>
+                <h1>O cadastro</h1>
+            </header>
+    <main>
+    <form>
+<label>Nome:</label>
+<input type="nome">
+
+<label>Email:</label>
+<input type="email">
+<label>Mensagem:</label><br>
+<textarea></textarea><br><br>
+<input name="Mensagem"><br><br>
+<label>idade:</label>
+<input type="idade">
+<label>data de nascimento:</label>
+<input type="data de nascimento">
+<label>Senha:</label>
+<input type="senha">
+<label>Hobbies:</label>
+<input type="checkbox"> Brincar com meu cachorro
+<input type="checkbox"> Assistit Doramas e Animes
+<input type="checkbox"> Ler livros de Romance e Fantasia
+<label>Turno:</label>
+<input type="radio" name="turno"> tarde
+<input type="submit" value="Enviar">
+<input type="submit" value="deletar">
+</form>
+<br>
+<a href="index.html">Voltar</a>
+    </main>
+</html>
