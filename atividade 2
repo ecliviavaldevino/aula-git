@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<body>
+<style>
+    body {
+      background-color:#483D8B
+    }
+    h1{color:black;
+    font-family: "Courier New", cursive
+    }
+    h2{font-family: "Georgia", serif;}
+    P{font-size:x-large;}
+    a{font-size: xx-large;
+    color: #CD5C5C;}
+    </style>
+<center><h1><strong>Eclivia Valdevino Bezerra De Medeiros</strong></h1></center>
+<center><h2>UM POUCO DA VIDA DA MARAVILHOSA ECIVIA!</h2></center>
+<hr>
+<p>Meu nome é Eclivia (sem acento no primeiro “i”, porque muitas pessoas costumam colocá-lo).
+Tenho 15 anos e vou fazer 16 no dia 30 deste mês. Gosto de animais e de comida. Tenho um cachorro chamado Zeus.Ele gosta muito de fazer bagunça e brincar.
+Estou muito animada e ansiosa para a aula de campo de Verbena, lá em Campina Grande.
+Sinceramente, não sei muito bem falar sobre mim mesma, então é só isso que tenho a dizer. Já foi muita coisa, né, Renan?</p>
+<center><img src="https://i.pinimg.com/736x/92/c5/fa/92c5fade03ce71131ee955832fff5447.jpg" height="500" weight="500">
+<a href="https://br.pinterest.com/search/pins/?q=hello%20kitty%20de%20chicote&rs=typed">babilonica</a></center>
+</head>
+   </body>
+</html>
